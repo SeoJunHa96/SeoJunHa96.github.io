@@ -37,10 +37,10 @@ layout: page
     {% assign posts = posts | push: default[i] %}
   {% endfor %}
 {% endif %}
-
+<div>
   <h2>Hello, World!!</h2>
   <p>작성 중입니다...</p>
-
+</div>
   
 <!-- <div id="post-list">
 
@@ -87,11 +87,11 @@ layout: page
 
     </div> <!-- .post-meta -->
 
-  </div> <!-- .post-review --> -->
+  </div> <!-- .post-review --> 
 
 {% endfor %}
 
-</div> <!-- #post-list -->
+</div> --> <!-- #post-list -->
 
 {% if paginator.total_pages > 0 %}
   {% include post-paginator.html %}
