@@ -13,7 +13,6 @@ tags:
   ]
 ---
 
-# Vue Router
 {% raw %}
 
 #### Routing
