@@ -1,7 +1,7 @@
 ---
 title: Vue State Management
 date: 2023-11-13 19:06:00 +09:00
-categories: [TEST]
+categories: [Vue]
 tags:
   [
     vue,
@@ -11,7 +11,7 @@ tags:
   ]
 ---
 
-
+{% raw %}
 #### State Management
 
 - Vue 컴포넌트는 이미 반응형 상태를 관리하고 있음
@@ -577,3 +577,4 @@ defineProps({
 
   > 결과적으로 역할에 적절한 상황에서 활용 했을 때 Pinia 효용을 극대화 할 수 있음
 
+{% endraw %}
