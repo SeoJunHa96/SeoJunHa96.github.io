@@ -1,7 +1,7 @@
 ---
 title: Vue State Management
 date: 2023-11-13 19:06:00 +09:00
-categories: [Vue]
+categories: [TEST]
 tags:
   [
     vue,
