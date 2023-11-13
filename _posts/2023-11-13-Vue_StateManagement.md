@@ -12,7 +12,6 @@ tags:
   ]
 ---
 
-# State Management
 {% raw %}
 #### State Management
 
